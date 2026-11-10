@@ -1,144 +1,165 @@
-<h1 align="center">Hi , I'm Deivanai</h1>
+# Hi 👋, I'm Deivanai A
+
 <h3 align="center">
- Full Stack Web Developer | Passionate Problem Solver | Building 
-Modern Web Experiences
+  Aspiring Software Developer | Web Development | Data Analytics
 </h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
+  Passionate about building practical applications, solving problems, and continuously learning new technologies.
 </p>
+
 ---
-## About Me
-- I'm a **Full Stack Web Developer** passionate about creating 
-responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud 
-Technologies**.
-- Open to collaborating on exciting web development and open-
-source projects.
-- Always exploring modern technologies and best development 
-practices.
-- Fun Fact: **I love solving coding challenges and building 
-useful applications.**
+
+## 👩‍💻 About Me
+
+- 🎓 Final-year B.Tech Information Technology student at **K.L.N. College of Engineering**.
+- 💻 Interested in **Web Development, Software Development, and Data Analytics**.
+- 🌱 Currently improving my skills in Python, SQL, JavaScript, and modern web technologies.
+- 📊 Interested in transforming data into meaningful insights using Excel and Power BI.
+- 🛠️ Experienced in developing web applications using Flask, MySQL, HTML, CSS, and JavaScript.
+- 💼 Completed a 6-month internship at **Dream Yours Infotech Consulting & Services**.
+- 🚀 Always interested in learning, experimenting, and building real-world projects.
+
 ---
-## Connect With Me
+
+## 🔗 Connect With Me
 
 <p align="left">
-<a href="[LinkedIn URL]">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/deivanai-a-90bb0a2a1" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
-the-badge&logo=vercel"/>
-</a>
-<a href="mailto:[Email Address]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail"/>
+<a href="https://github.com/deivanai-4" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
----
-# Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
-</p>
----
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and 
-experience.
 
-**Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
- Live Demo: [Portfolio URL]
- Repository: [GitHub Repository]
 ---
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart 
-functionality.
-**Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
- Live Demo: [Project URL]
- Repository: [GitHub Repository]
----
-## Task Management App
-A productivity application to organize daily tasks with 
-authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
- Live Demo: [Project URL]
- Repository: [GitHub Repository]
----
-# GitHub Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,js"/>
 </p>
----
-# GitHub Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask"/>
 </p>
----
-# Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
----
-# GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
-w=10"/>
+
+### Data Analytics & Visualization
+
+- Microsoft Excel
+- Power BI
+- Tableau
+- Python (Pandas)
+- SQL & MySQL
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
+
 ---
-# 🛠 Currently Working On
-- Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and DevOps.
-- Improving responsive UI/UX design.
+
+## 🚀 Featured Projects
+
+### 1. MediTrack – Automated Medicine Expiry Monitoring System
+
+A web-based application designed to monitor medicine expiry dates and help users manage medicine inventory efficiently.
+
+**Key Features:**
+- Medicine inventory management.
+- Automatic expiry status identification.
+- Expiry alerts and notifications.
+- Medicine sales tracking.
+- Dashboard with visual reports.
+
+**Tech Stack:** `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript` `Chart.js`
+
+🔗 [GitHub Repository](https://github.com/Deivanai-4/Automated-Medicine-Expiry-Monitoring-System)
+
 ---
-# Currently Learning
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
+
+### 2. AI-Powered Career Intelligence & Resume Optimizer
+
+An AI-powered platform designed to help students improve their resumes and prepare for campus placements.
+
+**Key Features:**
+- Resume upload and analysis.
+- ATS compatibility scoring.
+- Skill gap identification.
+- Company-specific skill matching.
+- Career roadmap recommendations.
+- Interview preparation questions.
+
+**Tech Stack:** `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript` `Qwen AI`
+
+🔗 [GitHub Repository](https://github.com/Deivanai-4/ai-resume-optimizer)
+
 ---
-# Goals for 2025
-- Contribute to Open Source
-- Build SaaS Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
+
+### 3. Data Analytics & Dashboard Projects
+
+Exploring data analytics through practical projects using spreadsheets, SQL, and visualization tools.
+
+**Tools:** `Microsoft Excel` `SQL` `MySQL` `Power BI` `Tableau` `Python`
+
 ---
-# Favorite Quote
-> "Code is like humor. When you have to explain it, it's bad." – 
-Cory House
----
+
+## 📊 GitHub Statistics
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deivanai-4&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivanai-4&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
-<h3 align="center">
- Thanks for visiting my profile! 
-</h3>
+
+## 🔥 GitHub Contribution Streak
+
 <p align="center">
-If you like my work, consider giving a to my repositories and 
-connecting with me.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deivanai-4&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Strengthening Python programming.
+- Improving SQL queries and database concepts.
+- Practicing JavaScript and React.
+- Learning advanced Excel and Power BI.
+- Improving problem-solving and coding skills.
+- Exploring AI integration in web applications.
+
+---
+
+## 🎯 My Goals
+
+- Build real-world web applications.
+- Improve programming and problem-solving skills.
+- Develop strong SQL and Python knowledge.
+- Create meaningful data analytics projects.
+- Contribute to open-source projects.
+- Secure an opportunity as a Software Developer or Data Analyst.
+
+---
+
+## 💡 My Developer Mindset
+
+> "Great things are done by a series of small things brought together." – Vincent van Gogh
+
+<p align="center">
+  Thanks for visiting my GitHub profile! 😊
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
 </p>
